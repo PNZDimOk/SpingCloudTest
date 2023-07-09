@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.6">
+      <module name="eureka-clent-2.main" target="17" />
+      <module name="eureka-clent-2.test" target="17" />
       <module name="ru.spring.micro.eureka-server.main" target="17" />
       <module name="ru.spring.micro.eureka-server.test" target="17" />
     </bytecodeTargetLevel>
